@@ -17,6 +17,7 @@ public class Main
         i2 = num2.nextFloat();
         i3 = i2 + i1;
         System.out.println("Suma este: " + i3 );
+        
 
     }
 }
